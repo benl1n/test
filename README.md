@@ -1,2 +1,8 @@
 # numpy练习
+
 学习numpy可以帮忙理解pytorch中的tensor数据类型
+
+modified
+
+hello benben
+
